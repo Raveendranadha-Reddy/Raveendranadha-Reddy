@@ -2,9 +2,9 @@
   <img src="./raveendra_github_banner_no_person.jpg" width="100%" alt="Raveendranadha Reddy - DevOps Engineer"/>
 </p>
 
-<h1 align="center">Hi, I'm Raveendranadha Reddy 👋</h1>
+<h1 align="center">Hi, I'm Raveendranadha Reddy </h1>
 
-<h3 align="center">Linux | Kubernetes | OpenShift | AWS | DevOps Engineer</h3>
+<h3 align="center"> Linux | Kubernetes | OpenShift(ROSA) | AWS|Terraform| DevOps Engineer </h3>
 
 <p align="center">
   IT Professional with 7+ years of experience in Linux administration and hands-on experience in Kubernetes, OpenShift, AWS and DevOps tools.
