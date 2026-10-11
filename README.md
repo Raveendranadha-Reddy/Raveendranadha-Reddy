@@ -1,230 +1,139 @@
 
-<!-- ======================================= -->
-<!-- RAVEENDRANADHA REDDY | DEVOPS PORTFOLIO -->
-<!-- ======================================= -->
+<!-- ========== DEVOPS PROFILE ========== -->
 
-<p align="center">
-  <img src="./raveendra_github_banner_no_person.jpg"
-       width="100%"
-       alt="Raveendranadha Reddy | DevOps Engineer"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CLOUD-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CONTAINERS-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PLATFORM-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
+<p align="center"><img src="./raveendra_github_banner_no_person.jpg" width="100%" alt="Raveendranadha Reddy - DevOps Engineer"/></p>
 
 <h1 align="center">Hi, I'm Raveendranadha Reddy 👋</h1>
+<h3 align="center">Linux | Kubernetes | OpenShift (ROSA) | AWS | Terraform | DevOps</h3>
 
-<h3 align="center">
-  Linux Administrator | Kubernetes | OpenShift (ROSA) | AWS | DevOps
-</h3>
-
-<p align="center">
-  Building reliable infrastructure, automating deployments, and operating
-  cloud-native applications.
-</p>
+<p align="center">IT professional with 7+ years of experience in Linux administration and hands-on experience in Kubernetes, OpenShift, AWS and DevOps tools.</p>
 
 <p align="center">
-  <a href="https://github.com/Raveendranadha-Reddy">
-    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=flat-square&logo=github"/>
-  </a>
-  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-0E7490?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Certification-CKA-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-0F4C81?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CKA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-0891B2?style=flat-square"/>
 </p>
 
 ---
 
-<h2 align="center">▰ TECHNICAL TOOLKIT</h2>
+<h2 align="center">🛠️ TECHNICAL TOOLKIT</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,openshift,aws,terraform,git,github,githubactions,jenkins,ansible,helm&perline=7"
-       alt="Linux, Docker, Kubernetes, OpenShift, AWS, Terraform, Git, GitHub Actions, Jenkins, Ansible and Helm"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,openshift,aws,terraform,git,github,githubactions,jenkins,ansible,helm&perline=13" alt="Technical Skills"/>
 </p>
 
-<p align="center">
-  <b>LINUX</b> &nbsp; • &nbsp;
-  <b>CONTAINERS</b> &nbsp; • &nbsp;
-  <b>CLOUD</b> &nbsp; • &nbsp;
-  <b>AUTOMATION</b> &nbsp; • &nbsp;
-  <b>GITOPS</b>
-</p>
+<p align="center">LINUX • CONTAINERS • CLOUD • AUTOMATION • GITOPS</p>
 
 ---
 
-<h2 align="center">▰ FEATURED PROJECTS</h2>
-
-<p align="center">
-  Selected hands-on infrastructure and Kubernetes projects
-</p>
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<p align="center">Hands-on infrastructure, Kubernetes and cloud projects</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <h3>☁️ AWS EKS Platform</h3>
-
-Deploy and manage Kubernetes workloads on Amazon EKS.
-
-<b>Technology stack</b>
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EKS-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-</p>
-
-<a href="https://github.com/REDDYRN26/AWS-EKS">↗ Explore Repository</a>
-
+<p>Deploy and manage Kubernetes workloads on Amazon EKS.</p>
+<p><b>Stack:</b> AWS, EKS, Kubernetes, Docker, Terraform</p>
+<a href="https://github.com/REDDYRN26/AWS-EKS">↗ View Repository</a>
 </td>
 <td width="50%" valign="top">
-
 <h3>⚙️ Kubernetes CKA Labs</h3>
-
-Hands-on practice for cluster administration, YAML resources, workloads, and troubleshooting.
-
-<b>Technology stack</b>
-
-<p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square"/>
-</p>
-
-<a href="https://github.com/Raveendranadha-Reddy/CKA">↗ Explore Repository</a>
-
+<p>Practical Kubernetes administration, YAML resources and troubleshooting.</p>
+<p><b>Stack:</b> Kubernetes, Linux, YAML, kubectl</p>
+<a href="https://github.com/Raveendranadha-Reddy/CKA">↗ View Repository</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
 <h3>🐧 Red Hat Linux Labs</h3>
-
-Linux administration, command-line operations, configuration, and troubleshooting.
-
-<b>Technology stack</b>
-
-<p>
-  <img src="https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-</p>
-
-<a href="https://github.com/Raveendranadha-Reddy/Redhat-Linux">↗ Explore Repository</a>
-
+<p>Linux administration, system configuration and troubleshooting practice.</p>
+<p><b>Stack:</b> RHEL, Linux, Bash</p>
+<a href="https://github.com/Raveendranadha-Reddy/Redhat-Linux">↗ View Repository</a>
 </td>
 <td width="50%" valign="top">
-
-<h3>🚀 Automation & GitOps</h3>
-
-Infrastructure automation, continuous integration, deployment workflows, and declarative application delivery.
-
-<b>Technology stack</b>
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
-</p>
-
-<p>Explore the repositories above for available lab examples.</p>
-
+<h3>🔄 DevOps & GitOps</h3>
+<p>CI/CD pipelines, infrastructure automation and declarative deployments.</p>
+<p><b>Stack:</b> GitHub Actions, Jenkins, Terraform, Argo CD, Helm</p>
+<p>Explore the repositories above for available examples.</p>
 </td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">▰ AREAS OF EXPERTISE</h2>
+<h2 align="center">☁️ AREAS OF EXPERTISE</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<h3>☸️ Cloud & Kubernetes</h3>
 
-<h3>☸️ Kubernetes & Cloud</h3>
-
-- Kubernetes administration and troubleshooting
+- Kubernetes administration
 - AWS EKS and cloud infrastructure
 - OpenShift and ROSA
 - Docker and containerization
-- Storage, networking, and workload operations
-
+- Cluster networking and troubleshooting
 </td>
 <td width="50%" valign="top">
-
 <h3>🔧 DevOps & Automation</h3>
 
 - Terraform and Infrastructure as Code
 - GitHub Actions and Jenkins CI/CD
 - GitOps with Argo CD
-- Helm-based application deployments
-- Linux administration and Bash scripting
-
+- Helm-based deployments
+- Linux and Bash scripting
 </td>
 </tr>
 </table>
 
 ---
 
-<h2 align="center">▰ CERTIFICATION</h2>
+<h2 align="center">🏆 CERTIFICATION</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
-       alt="Certified Kubernetes Administrator"/>
+  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA Certification"/>
 </p>
 
 ---
 
-<h2 align="center">▰ GITHUB PERFORMANCE</h2>
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Raveendranadha-Reddy&show_icons=true&theme=tokyonight&hide_border=true"
-       alt="GitHub Statistics"/>
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveendranadha-Reddy&layout=compact&theme=tokyonight&hide_border=true"
-       alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Raveendranadha-Reddy&theme=tokyo-night&hide_border=true"
-       alt="GitHub Contribution Activity"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Raveendranadha-Reddy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveendranadha-Reddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-<h2 align="center">▰ CURRENT LEARNING FOCUS</h2>
+<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-AWS%20EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/02-OpenShift%20%26%20ROSA-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raveendranadha-Reddy&theme=tokyo-night&hide_border=true" alt="Contribution Activity"/>
 </p>
+
+---
+
+<h2 align="center">🎯 CURRENT FOCUS</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/03-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/04-GitOps-326CE5?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenShift-ROSA-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitOps-Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
 </p>
+
+<p align="center">Advanced Kubernetes • Cloud Automation • CI/CD • GitOps • Platform Engineering</p>
 
 ---
 
 <h2 align="center">LET'S BUILD SOMETHING GREAT</h2>
 
 <p align="center">
-  Interested in Kubernetes, cloud infrastructure, platform engineering,
-  automation, and DevOps.
-</p>
-
-<p align="center">
   <a href="https://github.com/Raveendranadha-Reddy">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
 </p>
 
-<p align="center">
-  <b>BUILD · DEPLOY · AUTOMATE · SCALE</b>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile!</i> ⭐
-</p>
+<p align="center"><b>BUILD • DEPLOY • AUTOMATE • SCALE</b></p>
+<p align="center"><i>Thanks for visiting my profile! ⭐</i></p>
