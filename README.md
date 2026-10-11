@@ -1,5 +1,3 @@
-<img width="1920" height="563" alt="{F2F06137-29BB-492F-8BFB-17007255B128}" src="https://github.com/user-attachments/assets/6d793682-21a6-4559-94fd-f38c15b181a7" /># Hi, I'm Raveendranadha Reddy 👋
-
 ### Linux | Kubernetes | OpenShift | AWS | DevOps Engineer
 
 I am an IT professional with 7+ years of experience in Linux administration and hands-on experience with Kubernetes, OpenShift, cloud infrastructure, and DevOps tools.
