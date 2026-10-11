@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Raveendranadha-Reddy.png"
-       width="150"
-       style="border-radius:50%;" />
-</p>
-
-# Hi, I'm Raveendranadha Reddy 👋
+<img width="1920" height="563" alt="{F2F06137-29BB-492F-8BFB-17007255B128}" src="https://github.com/user-attachments/assets/6d793682-21a6-4559-94fd-f38c15b181a7" /># Hi, I'm Raveendranadha Reddy 👋
 
 ### Linux | Kubernetes | OpenShift | AWS | DevOps Engineer
 
@@ -21,6 +15,19 @@ I am an IT professional with 7+ years of experience in Linux administration and 
 - AWS EKS – Kubernetes application deployment and cloud infrastructure.
 - Coffee Shop Application – Frontend and backend deployment on Kubernetes.
 - Veda-Glucocare – Healthcare application deployment using Kubernetes.
+
+## 🚀 Featured Projects
+
+- [Red Hat Linux Labs](https://github.com/Raveendranadha-Reddy/Redhat-Linux)
+  - Linux administration, commands, and troubleshooting practice.
+
+- [CKA Practice](https://github.com/Raveendranadha-Reddy/CKA)
+  - Kubernetes administration labs and CKA preparation.
+
+- [AWS EKS Projects](https://github.com/REDDYRN26/AWS-EKS)
+  - Kubernetes application deployment on AWS EKS.
+
+
 
 ## ☁️ Areas of Expertise
 
