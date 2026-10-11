@@ -2,14 +2,14 @@
 
 I am an IT professional with 7+ years of experience in Linux administration and hands-on experience with Kubernetes, OpenShift, cloud infrastructure, and DevOps tools.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,openshift,aws,terraform,git,github,githubactions,jenkins,ansible,helm" />
 </p>
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - [Red Hat Linux Labs](https://github.com/Raveendranadha-Reddy/Redhat-Linux)
   - Linux administration, commands, and troubleshooting practice.
@@ -22,7 +22,7 @@ I am an IT professional with 7+ years of experience in Linux administration and 
 
 
 
-## ☁️ Areas of Expertise
+## Areas of Expertise
 
 - Kubernetes Administration and Troubleshooting
 - AWS EKS and Cloud Infrastructure
@@ -33,11 +33,11 @@ I am an IT professional with 7+ years of experience in Linux administration and 
 - GitOps with Argo CD and Helm
 - Linux Administration and Bash Scripting
 
-## 🏆 Certification
+## Certification
 
 - Certified Kubernetes Administrator (CKA)
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raveendranadha-Reddy&show_icons=true&theme=tokyonight)
 
