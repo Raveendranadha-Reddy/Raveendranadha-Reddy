@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./raveendra_github_banner_no_person.jpg" width="100%" alt="Raveendranadha Reddy - DevOps Engineer"/>
 </p>
