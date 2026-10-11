@@ -11,14 +11,22 @@ I am an IT professional with 7+ years of experience in Linux administration and 
 
 ## Featured Projects
 
-- [Red Hat Linux Labs](https://github.com/Raveendranadha-Reddy/Redhat-Linux)
-  - Linux administration, commands, and troubleshooting practice.
+## 🚀 Featured Projects
 
-- [CKA Practice](https://github.com/Raveendranadha-Reddy/CKA)
-  - Kubernetes administration labs and CKA preparation.
+### 1. AWS EKS Platform
+- AWS EKS cluster setup and Kubernetes deployments.
+- Technologies: AWS, EKS, Kubernetes, Terraform, Docker.
+- [View Repository](https://github.com/REDDYRN26/AWS-EKS)
 
-- [AWS EKS Projects](https://github.com/REDDYRN26/AWS-EKS)
-  - Kubernetes application deployment on AWS EKS.
+### 2. Kubernetes CKA Labs
+- Hands-on labs for Kubernetes administration and troubleshooting.
+- Technologies: Kubernetes, Linux, YAML, kubectl.
+- [View Repository](https://github.com/Raveendranadha-Reddy/CKA)
+
+### 3. Red Hat Linux Administration
+- Linux commands, administration, and troubleshooting practice.
+- Technologies: Linux, RHEL, Bash.
+- [View Repository](https://github.com/Raveendranadha-Reddy/Redhat-Linux)
 
 
 
