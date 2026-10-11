@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="./devops-banner.jpg" alt="Raveendranadha Reddy - DevOps Engineer" width="100%" />
+</p>
+
+---
+
+
 ### Linux | Kubernetes | OpenShift | AWS | DevOps Engineer
 
 I am an IT professional with 7+ years of experience in Linux administration and hands-on experience with Kubernetes, OpenShift, cloud infrastructure, and DevOps tools.
