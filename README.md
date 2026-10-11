@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Raveendranadha-Reddy.png"
+       width="150"
+       style="border-radius:50%;" />
+</p>
 
 # Hi, I'm Raveendranadha Reddy 👋
 
