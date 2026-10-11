@@ -19,7 +19,6 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,openshift,aws,terraform,git,github,githubactions,jenkins,ansible,helm" alt="Technical Skills"/>
 </p>
 
-## 🚀 Featured Projects
 
 ### 1. AWS EKS Platform
 Kubernetes application deployment and cloud infrastructure on AWS.
