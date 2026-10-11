@@ -1,62 +1,93 @@
+
 <p align="center">
-  <img src="./raveendra_github_banner_no_person.jpg" alt="Raveendranadha Reddy - DevOps Engineer" width="100%" />
+  <img src="./raveendra_github_banner_no_person.jpg" width="100%" alt="Raveendranadha Reddy - DevOps Engineer"/>
 </p>
 
+<h1 align="center">Hi, I'm Raveendranadha Reddy 👋</h1>
+
+<h3 align="center">Linux | Kubernetes | OpenShift | AWS | DevOps Engineer</h3>
+
+<p align="center">
+  IT Professional with 7+ years of experience in Linux administration and hands-on experience in Kubernetes, OpenShift, AWS and DevOps tools.
+</p>
 
 ---
 
+## 🛠️ Technical Skills
 
-### Linux | Kubernetes | OpenShift | AWS | DevOps Engineer
-
-I am an IT professional with 7+ years of experience in Linux administration and hands-on experience with Kubernetes, OpenShift, cloud infrastructure, and DevOps tools.
-
-## Technical Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,openshift,aws,terraform,git,github,githubactions,jenkins,ansible,helm" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,openshift,aws,terraform,git,github,githubactions,jenkins,ansible,helm" alt="Technical Skills"/>
 </p>
-
-
-## Featured Projects
 
 ## 🚀 Featured Projects
 
 ### 1. AWS EKS Platform
-- AWS EKS cluster setup and Kubernetes deployments.
-- Technologies: AWS, EKS, Kubernetes, Terraform, Docker.
-- [View Repository](https://github.com/REDDYRN26/AWS-EKS)
+Kubernetes application deployment and cloud infrastructure on AWS.
+
+Technologies: AWS, EKS, Kubernetes, Docker, Terraform
+
+Repository: https://github.com/REDDYRN26/AWS-EKS
 
 ### 2. Kubernetes CKA Labs
-- Hands-on labs for Kubernetes administration and troubleshooting.
-- Technologies: Kubernetes, Linux, YAML, kubectl.
-- [View Repository](https://github.com/Raveendranadha-Reddy/CKA)
+Hands-on Kubernetes administration, YAML practice and troubleshooting.
+
+Technologies: Kubernetes, Linux, YAML, kubectl
+
+Repository: https://github.com/Raveendranadha-Reddy/CKA
 
 ### 3. Red Hat Linux Administration
-- Linux commands, administration, and troubleshooting practice.
-- Technologies: Linux, RHEL, Bash.
-- [View Repository](https://github.com/Raveendranadha-Reddy/Redhat-Linux)
+Linux administration commands, configuration and troubleshooting practice.
 
+Technologies: Linux, RHEL, Bash
 
+Repository: https://github.com/Raveendranadha-Reddy/Redhat-Linux
 
-## Areas of Expertise
+## ☁️ Areas of Expertise
 
-- Kubernetes Administration and Troubleshooting
+- Linux Administration and Troubleshooting
+- Kubernetes Administration
 - AWS EKS and Cloud Infrastructure
 - OpenShift Administration
-- Terraform and Infrastructure as Code
 - Docker and Containerization
+- Terraform and Infrastructure as Code
 - GitHub Actions and Jenkins CI/CD
 - GitOps with Argo CD and Helm
-- Linux Administration and Bash Scripting
+- Bash Scripting
 
-## Certification
+## 🏆 Certification
 
 - Certified Kubernetes Administrator (CKA)
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raveendranadha-Reddy&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raveendranadha-Reddy&show_icons=true&theme=tokyonight" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raveendranadha-Reddy&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raveendranadha-Reddy&theme=tokyo-night" width="100%" alt="Contribution Activity"/>
+</p>
+
+## 🎯 Current Focus
+
+- Advanced Kubernetes and EKS
+- OpenShift and ROSA
+- Terraform Infrastructure Automation
+- CI/CD with GitHub Actions
+- GitOps with Argo CD
 
 ---
 
-### Build | Deploy | Automate | Scale
+<p align="center">
+  BUILD • DEPLOY • AUTOMATE • SCALE
+</p>
+
+<p align="center">
+  Thanks for visiting my GitHub profile!
+</p>
