@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**Raveendranadha-Reddy/Raveendranadha-Reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Raveendranadha Reddy 👋
 
-Here are some ideas to get you started:
+### Linux | Kubernetes | OpenShift | AWS | DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an IT professional specializing in Linux administration, Kubernetes, OpenShift, AWS cloud infrastructure, and DevOps automation.
+
+## 🛠️ Technical Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,openshift,aws,terraform,git,github,githubactions,jenkins,ansible,helm" />
+</p>
+
+## 🚀 Featured Projects
+
+- AWS EKS – Kubernetes application deployment and cloud infrastructure.
+- Coffee Shop Application – Frontend and backend deployment on Kubernetes.
+- Veda-Glucocare – Healthcare application deployment using Kubernetes.
+
+## ☁️ Areas of Expertise
+
+- Kubernetes Administration and Troubleshooting
+- AWS EKS and Cloud Infrastructure
+- OpenShift Administration
+- Terraform and Infrastructure as Code
+- Docker and Containerization
+- GitHub Actions and Jenkins CI/CD
+- GitOps with Argo CD and Helm
+- Linux Administration and Bash Scripting
+
+## 🏆 Certification
+
+- Certified Kubernetes Administrator (CKA)
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raveendranadha-Reddy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raveendranadha-Reddy&layout=compact&theme=tokyonight)
+
+---
+
+### Build | Deploy | Automate | Scale
