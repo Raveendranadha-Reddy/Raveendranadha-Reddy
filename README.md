@@ -8,11 +8,6 @@ I am an IT professional with 7+ years of experience in Linux administration and 
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,openshift,aws,terraform,git,github,githubactions,jenkins,ansible,helm" />
 </p>
 
-## 🚀 Featured Projects
-
-- AWS EKS – Kubernetes application deployment and cloud infrastructure.
-- Coffee Shop Application – Frontend and backend deployment on Kubernetes.
-- Veda-Glucocare – Healthcare application deployment using Kubernetes.
 
 ## 🚀 Featured Projects
 
